@@ -73,7 +73,3 @@ $$S = \frac{\text{Single-Cycle Active Execution Time}}{\text{Pipelined Active Ex
 * **Speedup Achieved:** **$8.16\times$ performance improvement**[cite: 1].
 
 ---
-
-## Authors
-* **Ibrahim**[cite: 1]
-* **Abdur Rab**[cite: 1]

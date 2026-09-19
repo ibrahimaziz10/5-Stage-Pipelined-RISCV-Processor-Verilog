@@ -2,6 +2,9 @@
 
 A 32-bit 5-stage pipelined RISC-V CPU core implemented in Verilog HDL for a Computer Organization and Architecture Lab project[cite: 1]. This design transitions from an initial single-cycle architecture to a high-performance pipelined core featuring automated hazard detection, load-use stalling, and early branch flushing[cite: 1].
 
+<img width="1024" height="684" alt="image" src="https://github.com/user-attachments/assets/095a1f8d-f265-4178-a474-3bab295b409a" />
+
+
 ---
 
 ## System Specifications
